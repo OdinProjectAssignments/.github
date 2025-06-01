@@ -10,3 +10,4 @@ An organisation to contain the many repos created in the course of completing as
     - ### CSS Foundations
       - [Intro To CSS](https://github.com/OdinProjectAssignments/css-foundations_intro-to-css)
       - [The Cascade](https://github.com/OdinProjectAssignments/css-foundations_the-cascade)
+      - [Block And Inline](https://github.com/OdinProjectAssignmentsByPW80/css-foundations_block-and-inline)
