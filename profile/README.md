@@ -24,7 +24,15 @@ An organisation to contain the many repos created in the course of completing as
 <li><a href="https://github.com/OdinProjectAssignments/css-foundations_intro-to-css">Intro To CSS</a></li>
 <li><a href="https://github.com/OdinProjectAssignments/css-foundations_the-cascade">The Cascade</a></li>
 <li><a href="https://github.com/OdinProjectAssignments/css-foundations_block-and-inline">Block And Inline</a></li>
-<li><a href="https://github.com/OdinProjectAssignments/css-foundations_flex-alignment">Flex Alignment</a></li>
+</ul>
+</details>
+</li>
+
+<li>
+<h3>Flex</h3>
+<details><summary>Learn to layout webpages with flex</summary>
+<ul>
+<li><a href="https://github.com/OdinProjectAssignments/flex_alignment">Alignment</a></li>
 </ul>
 </details>
 </li>
