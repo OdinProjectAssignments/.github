@@ -32,7 +32,7 @@ An organisation to contain the many repos created in the course of completing as
 <h3>Flex</h3>
 <details><summary>Learn to layout webpages with flex</summary>
 <ul>
-<li><a href="https://github.com/OdinProjectAssignmentsByPW80/flex_alignmentt">Alignment</a></li>
+<li><a href="https://github.com/OdinProjectAssignmentsByPW80/flex_alignment">Alignment</a></li>
 </ul>
 </details>
 </li>
