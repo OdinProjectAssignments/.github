@@ -33,7 +33,20 @@ An organisation to contain the many repos created in the course of completing as
 <details><summary>Learn to layout webpages with flex</summary>
 <ul>
 <li><a href="https://github.com/OdinProjectAssignmentsByPW80/flex_alignment">Alignment</a></li>
+<li><a href="https://github.com/OdinProjectAssignmentsByPW80/flex_project-landing-page">Project: Landing Page</a></li>
 </ul>
+</details>
+</li>
+
+<li>
+<h3>JavaScript</h3>
+<details><summary>The fundamentals of JavaScript</summary>
+
+*coming soon*
+<!-- <ul>
+<li><a href="https://github.com/OdinProjectAssignmentsByPW80/flex_alignment">Alignment</a></li>
+<li><a href="https://github.com/OdinProjectAssignmentsByPW80/flex_project-landing-page">Project: Landing Page</a></li>
+</ul> -->
 </details>
 </li>
 
