@@ -42,11 +42,10 @@ An organisation to contain the many repos created in the course of completing as
 <h3>JavaScript</h3>
 <details><summary>The fundamentals of JavaScript</summary>
 
-*coming soon*
-<!-- <ul>
-<li><a href="https://github.com/OdinProjectAssignmentsByPW80/flex_alignment">Alignment</a></li>
-<li><a href="https://github.com/OdinProjectAssignmentsByPW80/flex_project-landing-page">Project: Landing Page</a></li>
-</ul> -->
+<ul>
+<li><a href="https://github.com/OdinProjectAssignmentsByPW80/javascript-basics_variables-and-operators">Variables And Operators</a></li>
+<!-- <li><a href="https://github.com/OdinProjectAssignmentsByPW80/flex_project-landing-page">Project: Landing Page</a></li> -->
+</ul>
 </details>
 </li>
 
