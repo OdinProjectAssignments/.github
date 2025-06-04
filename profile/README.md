@@ -44,7 +44,7 @@ An organisation to contain the many repos created in the course of completing as
 
 <ul>
 <li><a href="https://github.com/OdinProjectAssignmentsByPW80/javascript-basics_variables-and-operators">Variables And Operators</a></li>
-<!-- <li><a href="https://github.com/OdinProjectAssignmentsByPW80/flex_project-landing-page">Project: Landing Page</a></li> -->
+<li><a href="https://github.com/OdinProjectAssignmentsByPW80/javascript-basics_data-types-and-conditionals">Data Types and Conditionals</a></li>
 </ul>
 </details>
 </li>
