@@ -47,6 +47,7 @@ An organisation to contain the many repos created in the course of completing as
 <li><a href="https://github.com/OdinProjectAssignmentsByPW80/javascript-basics_data-types-and-conditionals">Data Types and Conditionals</a></li>
 <li><a href="https://github.com/OdinProjectAssignmentsByPW80/javascript-basics_function-basics">Function Basics</a></li>
 <li><a href="https://github.com/OdinProjectAssignmentsByPW80/javascript-basics_project-rps">Project: Rock, Paper, Scissors</a></li>
+<li><a href="https://github.com/OdinProjectAssignmentsByPW80/javascript-basics_loops-and-arrays">Loops And Arrays</a></li>
 </ul>
 </details>
 </li>
