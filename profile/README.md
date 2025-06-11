@@ -49,6 +49,7 @@ An organisation to contain the many repos created in the course of completing as
 <li><a href="https://github.com/OdinProjectAssignmentsByPW80/javascript-basics_project-rps">Project: Rock, Paper, Scissors</a></li>
 <li><a href="https://github.com/OdinProjectAssignmentsByPW80/javascript-basics_loops-and-arrays">Loops And Arrays</a></li>
 <li><a href="https://github.com/OdinProjectAssignmentsByPW80/javascript-basics_project-etch-a-sketch">Project: Etch-A-Sketch</a></li>
+<li><a href="https://github.com/OdinProjectAssignmentsByPW80/javascript-basics_object-basics">Object Basics</a></li>
 </ul>
 </details>
 </li>
