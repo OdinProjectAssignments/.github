@@ -4,6 +4,8 @@ An organisation to contain the many repos created in the course of completing as
 
 # Contents
 
+<table>
+<tr>
 <h2>Foundations Course</h2>
 <details><summary>A hands-on introduction to the essential tools required to build real, working websites</summary>
 <ul>
@@ -57,6 +59,8 @@ An organisation to contain the many repos created in the course of completing as
 
 </ul>
 </details>
+</tr>
+</table>
 
 <table>
 
