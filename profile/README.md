@@ -2,9 +2,9 @@
 
 An organisation to contain the many repos created in the course of completing assignments as part of [TheOdinProject](https://www.theodinproject.com)
 
-## Contents
+# Contents
 
-<h3>Foundations Course</h3>
+<h2>Foundations Course</h2>
 <details><summary>A hands-on introduction to the essential tools required to build real, working websites</summary>
 <ul>
 
@@ -57,3 +57,47 @@ An organisation to contain the many repos created in the course of completing as
 
 </ul>
 </details>
+
+<table>
+
+<tr>
+<td>
+<h2>Full Stack JavaScript Path</h2>
+<p>Learn to create beautiful responsive websites from scratch using JavaScript and NodeJS</p>
+</td>
+<td>
+<h2>Full Stack Ruby On Rails Path</h2>
+<p>Learn to create beautiful responsive websites from scratch using Ruby on Rails</p>
+</td>
+</tr>
+
+<tr>
+<td>
+
+<h3>Intermediate HTML & CSS</h3>
+<details><summary>Learn a little more about what can be done with HTML and CSS.</summary>
+
+<ul>
+<li><h3>Intermediate HTML Concepts</h3>
+<details><summary>Digging a little deeper into HTML</summary>
+<ul>
+<li><a href="https://github.com/OdinProjectAssignmentsByPW80/intermediate-html-concepts_tables">Tables</a></li>
+</ul>
+</details></li>
+
+<li><h3>Intermediate CSS Concepts</h3>
+<details><summary>Digging a little deeper into CSS</summary>
+<ul>
+<li><em>coming soon</em></li>
+<!-- <li><a href="https://github.com/OdinProjectAssignmentsByPW80/intermediate-html-concepts_tables">Tables</a></li> -->
+</ul>
+</details>
+</details>
+</td>
+
+<td>
+<p><em>tba</em></p>
+</td>
+
+</tr>
+</table>
