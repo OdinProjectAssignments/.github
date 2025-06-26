@@ -32,7 +32,7 @@ Learning to create beautiful responsive websites from scratch using JavaScript a
 <li><h3>Intermediate CSS Concepts</h3>
 <details><summary>Digging a little deeper into CSS</summary>
 <ul>
-<li><em>coming soon</em></li>
+<li><a href="https://github.com/OdinProjectAssignmentsByPW80/intermediate-css-concepts_advanced-selectors">Advanced Selectors</a></li>
 </ul>
 </details>
 
